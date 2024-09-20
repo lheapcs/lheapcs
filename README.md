@@ -1,3 +1,3 @@
-Hello! I'm @lheapcs, a Computer Science and Cyber Security student studying at the University of Brighton.
+Hello! I'm @lheapcs, a recent computer science graduate and cyber security enthusiast.
 
-I'm currently learning Java, Javascript, Android development and I have a keen interest in Cyber Security!
+I'm currently working on my skillset in Python and Bash while exploring my interest in API/web pen testing.
